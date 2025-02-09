@@ -11,13 +11,24 @@
             ".env"
           ]
         }
+      },
+      {
+        "src": "public/**",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
+      {
+        "src": "/public/(.*)",
+        "dest": "/public/$1"
+      },
+      {
+        "src": "/(.+\\.[a-z]+)$",
+        "dest": "/public/$1"
+      },
       {
         "src": "/.*",
         "dest": "src/server-local.ts"
       }
     ]
-  }
-  
+}  
