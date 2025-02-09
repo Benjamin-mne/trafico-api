@@ -8,12 +8,14 @@
     "start": "npm run build && node build/server-local.js"
   },
   "devDependencies": {
-    "typescript": "5.7.3",
+    "@types/cors": "^2.8.17",
     "@types/express": "5.0.0",
     "dotenv": "16.4.7",
-    "ts-node-dev": "2.0.0"
+    "ts-node-dev": "2.0.0",
+    "typescript": "5.7.3"
   },
   "dependencies": {
+    "cors": "2.8.5",
     "express": "5.0.1"
   }
 }
