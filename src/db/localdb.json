@@ -416,14 +416,6 @@
         "code": "R32"
     },
     {
-        "id": 52,
-        "name": "Fin de la Prescripción",
-        "imgUrl": "56.png",
-        "category": "Señales Preventivas",
-        "subcategory": "Advertencias de máximo peligro",
-        "code": "P1"
-    },
-    {
         "id": 53,
         "name": "Cruce Ferroviario",
         "imgUrl": "56.png",
