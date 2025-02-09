@@ -1,0 +1,962 @@
+[
+    {
+        "id": 0,
+        "name": "No Avanzar",
+        "imgUrl": "2.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R1"
+    },
+    {
+        "id": 1,
+        "name": "Contramano",
+        "imgUrl": "3.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R2"
+    },
+    {
+        "id": 2,
+        "name": "Prohibición de Circular (Autos)",
+        "imgUrl": "4.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 3,
+        "name": "Prohibición de Circular (Motos)",
+        "imgUrl": "5.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 4,
+        "name": "Prohibición de Circular (Bicicletas)",
+        "imgUrl": "6.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 5,
+        "name": "Prohibición de Circular (Camión)",
+        "imgUrl": "7.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 6,
+        "name": "Prohibición de Circular (Acoplado)",
+        "imgUrl": "8.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 7,
+        "name": "Prohibición de Circular (Peatón)",
+        "imgUrl": "9.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 8,
+        "name": "Prohibición de Circular (Tracción animal)",
+        "imgUrl": "10.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 9,
+        "name": "Prohibición de Circular (Animal)",
+        "imgUrl": "11.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 10,
+        "name": "Prohibición de Circular (Carro de mano)",
+        "imgUrl": "12.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 11,
+        "name": "Prohibición de Circular (Tractor)",
+        "imgUrl": "13.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R3"
+    },
+    {
+        "id": 12,
+        "name": "No Girar a la Izquierda",
+        "imgUrl": "14.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R4"
+    },
+    {
+        "id": 13,
+        "name": "No Girar a la Derecha",
+        "imgUrl": "15.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R4"
+    },
+    {
+        "id": 14,
+        "name": "No Girar en U (no retomar)",
+        "imgUrl": "16.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R5"
+    },
+    {
+        "id": 15,
+        "name": "Prohibido Adelantar",
+        "imgUrl": "17.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R6"
+    },
+    {
+        "id": 16,
+        "name": "No Ruidos Molestos",
+        "imgUrl": "18.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R7"
+    },
+    {
+        "id": 17,
+        "name": "No Estacionar",
+        "imgUrl": "19.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R8"
+    },
+    {
+        "id": 18,
+        "name": "No Estacionar ni Detenerse",
+        "imgUrl": "20.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R9"
+    },
+    {
+        "id": 19,
+        "name": "Prohibición de Cambiar de Carril",
+        "imgUrl": "1.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R10"
+    },
+    {
+        "id": 20,
+        "name": "LimiDe restricción",
+        "imgUrl": "21.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prohibición",
+        "code": "R11"
+    },
+    {
+        "id": 21,
+        "name": "Limitación de Peso por Eje",
+        "imgUrl": "22.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R11"
+    },
+    {
+        "id": 22,
+        "name": "Limitación de Altura",
+        "imgUrl": "23.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R12"
+    },
+    {
+        "id": 23,
+        "name": "Limitación de Ancho",
+        "imgUrl": "24.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R13"
+    },
+    {
+        "id": 24,
+        "name": "Limitación de Largo",
+        "imgUrl": "25.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R14"
+    },
+    {
+        "id": 25,
+        "name": "Limite de Velocidad Máxima",
+        "imgUrl": "26.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R15"
+    },
+    {
+        "id": 26,
+        "name": "Limite de Velocidad Mínima",
+        "imgUrl": "27.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R16"
+    },
+    {
+        "id": 27,
+        "name": "Estacionamiento Exclusivo",
+        "imgUrl": "28.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R17"
+    },
+    {
+        "id": 28,
+        "name": "Circulación Exclusiva (Transporte Público)",
+        "imgUrl": "29.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R18"
+    },
+    {
+        "id": 29,
+        "name": "Circulación Exclusiva (Motos)",
+        "imgUrl": "30.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R18"
+    },
+    {
+        "id": 30,
+        "name": "Circulación Exclusiva (Bicicletas)",
+        "imgUrl": "31.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R18"
+    },
+    {
+        "id": 31,
+        "name": "Circulación Exclusiva (Jinetes)",
+        "imgUrl": "32.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R18"
+    },
+    {
+        "id": 32,
+        "name": "Circulación Exclusiva (Peatones)",
+        "imgUrl": "33.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R18"
+    },
+    {
+        "id": 33,
+        "name": "Uso de Cadenas para la Nieve",
+        "imgUrl": "34.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R19"
+    },
+    {
+        "id": 34,
+        "name": "Giro Obligatorio (Derecha)",
+        "imgUrl": "35.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R20"
+    },
+    {
+        "id": 35,
+        "name": "Giro Obligatorio (Izquierda)",
+        "imgUrl": "36.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R20"
+    },
+    {
+        "id": 36,
+        "name": "Sentido de Circulación (Derecha)",
+        "imgUrl": "37.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R21"
+    },
+    {
+        "id": 37,
+        "name": "Sentido de Circulación (Izquierda)",
+        "imgUrl": "38.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R21"
+    },
+    {
+        "id": 38,
+        "name": "Sentido de Circulación (Comienzo Sentido Único)",
+        "imgUrl": "39.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R21"
+    },
+    {
+        "id": 39,
+        "name": "Sentido de Circulación (Alternativa)",
+        "imgUrl": "42.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R21"
+    },
+    {
+        "id": 40,
+        "name": "Paso Obligatorio (Derecha)",
+        "imgUrl": "43.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R22"
+    },
+    {
+        "id": 41,
+        "name": "Paso Obligatorio (Izquierda)",
+        "imgUrl": "40.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R22"
+    },
+    {
+        "id": 42,
+        "name": "Tránsito Pesado a la Derecha",
+        "imgUrl": "44.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R23"
+    },
+    {
+        "id": 43,
+        "name": "Peatones por la Izquierda",
+        "imgUrl": "45.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R24"
+    },
+    {
+        "id": 44,
+        "name": "Puesto de Control",
+        "imgUrl": "41.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R25"
+    },
+    {
+        "id": 45,
+        "name": "Comienzo de Doble Mano",
+        "imgUrl": "46.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R26"
+    },
+    {
+        "id": 46,
+        "name": "Transitar con Luces Bajas Encendidas",
+        "imgUrl": "47.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De restricción",
+        "code": "R26"
+    },
+    {
+        "id": 47,
+        "name": "Pare",
+        "imgUrl": "48.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prioridad",
+        "code": "R27"
+    },
+    {
+        "id": 48,
+        "name": "Ceda el Paso",
+        "imgUrl": "49.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prioridad",
+        "code": "R28"
+    },
+    {
+        "id": 49,
+        "name": "Preferencia de Avance",
+        "imgUrl": "52.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prioridad",
+        "code": "R29"
+    },
+    {
+        "id": 50,
+        "name": "Fin de la Prescripción",
+        "imgUrl": "50.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prioridad",
+        "code": "R31"
+    },
+    {
+        "id": 51,
+        "name": "Fin de la Prescripción",
+        "imgUrl": "51.png",
+        "category": "Señales Reglamentarias o Prescriptivas",
+        "subcategory": "De prioridad",
+        "code": "R32"
+    },
+    {
+        "id": 52,
+        "name": "Fin de la Prescripción",
+        "imgUrl": "56.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P1"
+    },
+    {
+        "id": 53,
+        "name": "Cruce Ferroviario",
+        "imgUrl": "56.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P1"
+    },
+    {
+        "id": 54,
+        "name": "Paneles de Prevención (aprox.)",
+        "imgUrl": "55.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P2"
+    },
+    {
+        "id": 55,
+        "name": "Paneles de Prevención (obstáculo rígido)",
+        "imgUrl": "54.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P2"
+    },
+    {
+        "id": 56,
+        "name": "Paneles de Prevención (curva)",
+        "imgUrl": "53.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P2"
+    },
+    {
+        "id": 57,
+        "name": "Paneles de Prevención (Curva)",
+        "imgUrl": "59.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P2"
+    },
+    {
+        "id": 58,
+        "name": "Cruz de San Andrés",
+        "imgUrl": "57.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P3"
+    },
+    {
+        "id": 59,
+        "name": "Cruz de San Andrés",
+        "imgUrl": "58.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P3"
+    },
+    {
+        "id": 60,
+        "name": "Nomenclatura de Autopista",
+        "imgUrl": "119.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|11"
+    },
+    {
+        "id": 61,
+        "name": "Curva Cerrada",
+        "imgUrl": "62.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P4"
+    },
+    {
+        "id": 62,
+        "name": "Cruce de Peatones",
+        "imgUrl": "60.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P5"
+    },
+    {
+        "id": 63,
+        "name": "Atención",
+        "imgUrl": "61.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias de máximo peligro",
+        "code": "P6"
+    },
+    {
+        "id": 64,
+        "name": "Escolares",
+        "imgUrl": "66.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P25"
+    },
+    {
+        "id": 65,
+        "name": "Niños",
+        "imgUrl": "65.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P25"
+    },
+    {
+        "id": 66,
+        "name": "Ciclistas",
+        "imgUrl": "64.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P26"
+    },
+    {
+        "id": 67,
+        "name": "Jinetes",
+        "imgUrl": "63.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P26"
+    },
+    {
+        "id": 68,
+        "name": "Animales Sueltos (Vaca)",
+        "imgUrl": "70.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P27"
+    },
+    {
+        "id": 69,
+        "name": "Animales Sueltos (Ciervo)",
+        "imgUrl": "67.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P27"
+    },
+    {
+        "id": 70,
+        "name": "Corredor Aéreo",
+        "imgUrl": "68.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P28"
+    },
+    {
+        "id": 71,
+        "name": "Presencia de Vehículo Extraño (Tranvía)",
+        "imgUrl": "69.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P29"
+    },
+    {
+        "id": 72,
+        "name": "Presencia de Vehículo Extraño (Tractor)",
+        "imgUrl": "73.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P29"
+    },
+    {
+        "id": 73,
+        "name": "Presencia de Vehículo Extraño (Ambulancia)",
+        "imgUrl": "71.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P29"
+    },
+    {
+        "id": 74,
+        "name": "Vientos Fuertes Laterales",
+        "imgUrl": "72.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Posibilidad de riesgos eventuales",
+        "code": "P30"
+    },
+    {
+        "id": 75,
+        "name": "Puente Móvil",
+        "imgUrl": "77.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P17"
+    },
+    {
+        "id": 76,
+        "name": "Altura Limitada",
+        "imgUrl": "74.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P18"
+    },
+    {
+        "id": 77,
+        "name": "Ancho Limitado",
+        "imgUrl": "75.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P19"
+    },
+    {
+        "id": 78,
+        "name": "Calzada Dividida",
+        "imgUrl": "76.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P20"
+    },
+    {
+        "id": 79,
+        "name": "Rotonda",
+        "imgUrl": "81.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P21"
+    },
+    {
+        "id": 80,
+        "name": "Incorporación de Tránsito Lateral",
+        "imgUrl": "78.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P22"
+    },
+    {
+        "id": 81,
+        "name": "Inicio de Doble Circulación",
+        "imgUrl": "79.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P23"
+    },
+    {
+        "id": 82,
+        "name": "Encrucijada (Cruce)",
+        "imgUrl": "80.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P24"
+    },
+    {
+        "id": 83,
+        "name": "Encrucijada (Empalme)",
+        "imgUrl": "84.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P24"
+    },
+    {
+        "id": 84,
+        "name": "Encrucijada (Bifurcación)",
+        "imgUrl": "82.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P24"
+    },
+    {
+        "id": 85,
+        "name": "Encrucijada (Bifurcación Alternativa)",
+        "imgUrl": "83.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P24"
+    },
+    {
+        "id": 86,
+        "name": "Curva (Común)",
+        "imgUrl": "100.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P7"
+    },
+    {
+        "id": 87,
+        "name": "Curva (Contracurva)",
+        "imgUrl": "97.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P7"
+    },
+    {
+        "id": 88,
+        "name": "Curva (en 'S')",
+        "imgUrl": "98.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P7"
+    },
+    {
+        "id": 89,
+        "name": "Camino Sinuisi",
+        "imgUrl": "99.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P8"
+    },
+    {
+        "id": 90,
+        "name": "Pendiente (Descendente)",
+        "imgUrl": "96.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P9"
+    },
+    {
+        "id": 91,
+        "name": "Pendiente (Ascendente)",
+        "imgUrl": "93.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P9"
+    },
+    {
+        "id": 92,
+        "name": "Estrechamiento (En las dos manos)",
+        "imgUrl": "94.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P10"
+    },
+    {
+        "id": 93,
+        "name": "Estrechamiento (En una sola mano)",
+        "imgUrl": "95.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P10"
+    },
+    {
+        "id": 94,
+        "name": "Perfil Irregular (Irregular)",
+        "imgUrl": "92.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P11"
+    },
+    {
+        "id": 95,
+        "name": "Perfil Irregular (Badén)",
+        "imgUrl": "89.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P11"
+    },
+    {
+        "id": 96,
+        "name": "Perfil Irregular (Lomada)",
+        "imgUrl": "90.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P11"
+    },
+    {
+        "id": 97,
+        "name": "Calzada Resbaladiza",
+        "imgUrl": "91.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P12"
+    },
+    {
+        "id": 98,
+        "name": "Proyección de Piedras",
+        "imgUrl": "88.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P13"
+    },
+    {
+        "id": 99,
+        "name": "Derrumes",
+        "imgUrl": "85.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P14"
+    },
+    {
+        "id": 100,
+        "name": "Túnel",
+        "imgUrl": "86.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P15"
+    },
+    {
+        "id": 101,
+        "name": "Puente Angosto",
+        "imgUrl": "86.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Advertencias sobre características físicas de la vía",
+        "code": "P16"
+    },
+    {
+        "id": 102,
+        "name": "Flecha Direccional",
+        "imgUrl": "103.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P31"
+    },
+    {
+        "id": 103,
+        "name": "Flecha Direccional",
+        "imgUrl": "101.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P31"
+    },
+    {
+        "id": 104,
+        "name": "Proximidad de Semáforo",
+        "imgUrl": "102.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P32"
+    },
+    {
+        "id": 105,
+        "name": "Proximidad de Señal Restrictiva (Pare)",
+        "imgUrl": "106.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P33"
+    },
+    {
+        "id": 106,
+        "name": "Proximidad de Señal Restrictiva (Paso)",
+        "imgUrl": "104.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P33"
+    },
+    {
+        "id": 107,
+        "name": "Proximidad de Señal Restrictiva (Otras)",
+        "imgUrl": "105.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P33"
+    },
+    {
+        "id": 108,
+        "name": "Fin de Prevención",
+        "imgUrl": "107.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P34"
+    },
+    {
+        "id": 109,
+        "name": "Fin de Prevención",
+        "imgUrl": "108.png",
+        "category": "Señales Preventivas",
+        "subcategory": "Anticipo de otros dispositivos de control de tránsito",
+        "code": "P34"
+    },
+    {
+        "id": 110,
+        "name": "Ruta Panamericana",
+        "imgUrl": "109.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|1"
+    },
+    {
+        "id": 111,
+        "name": "Ruta Nacional",
+        "imgUrl": "110.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|2"
+    },
+    {
+        "id": 112,
+        "name": "Ruta Provincial",
+        "imgUrl": "111.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|3"
+    },
+    {
+        "id": 113,
+        "name": "Nomenclatura Urbana",
+        "imgUrl": "112.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|4"
+    },
+    {
+        "id": 114,
+        "name": "Identificación de Región y Localidades",
+        "imgUrl": "113.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|5"
+    },
+    {
+        "id": 115,
+        "name": "Orientación (En Caminos Primarios y Secundarios)",
+        "imgUrl": "114.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|6"
+    },
+    {
+        "id": 116,
+        "name": "Orientación (En Caminos Secundarios)",
+        "imgUrl": "115.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|7"
+    },
+    {
+        "id": 117,
+        "name": "Comienzo o Fin de Zona Urbana",
+        "imgUrl": "116.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|8"
+    },
+    {
+        "id": 118,
+        "name": "Identificación de Jurisdicción o Acceso Geográfico",
+        "imgUrl": "117.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|9"
+    },
+    {
+        "id": 119,
+        "name": "Mojón Kilométrico",
+        "imgUrl": "118.png",
+        "category": "Señales Informativas",
+        "subcategory": "Nomenclatura vial y urbana. Destinos y distancias",
+        "code": "|10"
+    }
+]

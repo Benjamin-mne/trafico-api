@@ -1,0 +1,19 @@
+{
+  "name": "trafico-api",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint \"src/**/*.ts\" --fix",
+    "build": "tsc",
+    "dev": "ts-node-dev src/server-local.ts",
+    "start": "npm run build && node build/server-local.js"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3",
+    "@types/express": "5.0.0",
+    "dotenv": "16.4.7",
+    "ts-node-dev": "2.0.0"
+  },
+  "dependencies": {
+    "express": "5.0.1"
+  }
+}
